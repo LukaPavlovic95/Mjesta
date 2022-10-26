@@ -1,0 +1,25 @@
+{
+  "entities": [
+    {
+      "postBroj": "33520",
+      "aktivan": true,
+      "napomena": "Napomena 1",
+      "id": 1,
+      "naziv": "Slatina"
+    },
+    {
+      "postBroj": "10000",
+      "aktivan": true,
+      "napomena": "Zgb",
+      "id": 2,
+      "naziv": "Zagreb"
+    },
+    {
+      "postBroj": "31000",
+      "aktivan": true,
+      "napomena": "Os",
+      "id": 3,
+      "naziv": "Osijek"
+    }
+  ]
+}
