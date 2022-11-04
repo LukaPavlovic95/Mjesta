@@ -1,11 +1,11 @@
 {
   "entities": [
     {
-      "postBroj": "33520",
+      "postBroj": "31000",
       "aktivan": true,
-      "napomena": "Napomena 1",
+      "napomena": "Os",
       "id": 1,
-      "naziv": "Slatina"
+      "naziv": "Osijek"
     },
     {
       "postBroj": "10000",
@@ -15,11 +15,18 @@
       "naziv": "Zagreb"
     },
     {
-      "postBroj": "31000",
+      "postBroj": "51000",
       "aktivan": true,
-      "napomena": "Os",
+      "napomena": "Ri",
       "id": 3,
-      "naziv": "Osijek"
-    }
+      "naziv": "Rijeka"
+    },
+	{
+      "postBroj": "21000",
+      "aktivan": true,
+      "napomena": "St",
+      "id": 4,
+      "naziv": "Split"
+	}
   ]
 }
